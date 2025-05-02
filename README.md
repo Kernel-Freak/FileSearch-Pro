@@ -169,11 +169,10 @@ This project is licensed under the [GNU General Public License v3.0(GPLv3)](LICE
 
 ---
 
-## Contact / Author Info
+## 👤 Contact / Author Info
 
-- **Author**: Samrat Mandal
-- **Email**: samratmandal423@gmail.com
-- **GitHub**: https://github.com/Kernel-Freak
-- **Linkedin**: https://www.linkedin.com/in/samrat7/
+- **Samrat Mandal**  
+- 📧 samratmandal423@gmail.com  
+- 🌐 [GitHub](https://github.com/Kernel-Freak) | [LinkedIn](https://www.linkedin.com/in/samrat7/)
 
 For additional questions or further discussion, please feel free to contact the author.
